@@ -16,9 +16,6 @@ Supports:
 TOTP
 
 ## Screenshots
-<p align="center">
-<img src="Screenshot/White-App.png" alt="2FA Authenticator Desktop White Theme" width="400" /> 
-</p>
 <p>
  <img src="Screenshot/Black.png" alt=" 2FA Authenticator Desktop Black Theme" width="400" />
  <img src="Screenshot/White-Full.png" alt=" 2FA Authenticator Desktop Black Theme" width="400" />
